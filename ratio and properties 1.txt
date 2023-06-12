@@ -1,0 +1,5 @@
+1. The capacity of the tank is 1440 liters.
+2. The percentage of females who are literate is 33.33%.
+3. The percentage of candidates who failed in both subjects is 27%.
+4. The percent increase in savings is 42.86%.
+5. The tank can be emptied in 4 days.
